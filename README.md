@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 ## Bit Manipulation
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Varshini1404/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
