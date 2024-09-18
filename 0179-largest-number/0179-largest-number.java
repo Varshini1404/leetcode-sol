@@ -13,6 +13,8 @@ class Solution {
 
         }
     
-    return (r.charAt(0)=='0')?"0":r.toString();
+    if(r.charAt(0)=='0')
+        return "0";
+    return r.toString();
     }
 }
