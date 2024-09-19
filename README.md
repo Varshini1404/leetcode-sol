@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 ## String
@@ -36,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Varshini1404/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 ## Tree
@@ -90,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
