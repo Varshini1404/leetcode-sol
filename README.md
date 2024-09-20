@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/Varshini1404/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Varshini1404/leetcode-sol/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
