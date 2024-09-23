@@ -186,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/Varshini1404/leetcode-sol/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
