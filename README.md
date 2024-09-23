@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Counting
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Varshini1404/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
+| [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 ## Recursion
 |  |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
