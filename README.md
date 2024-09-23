@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Varshini1404/leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 ## Recursion
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Varshini1404/leetcode-sol/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Varshini1404/leetcode-sol/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Varshini1404/leetcode-sol/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
