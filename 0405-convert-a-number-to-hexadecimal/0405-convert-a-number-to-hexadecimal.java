@@ -4,8 +4,8 @@ class Solution {
         StringBuilder sb=new StringBuilder();
         
         do{
-            sb.insert(0,hex[num&15]);
-        }while((num>>>=4)>0);
+            sb.insert(0,hex[num&15]);//mod by 16
+        }while((num>>>=4)>0);//divide by 16
         return sb.toString();
 
     }
