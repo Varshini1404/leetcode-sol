@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Varshini1404/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Varshini1404/leetcode-sol/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Varshini1404/leetcode-sol/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Number Theory
 |  |
 | ------- |
