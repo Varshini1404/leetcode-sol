@@ -10,12 +10,12 @@ class Solution {
             curr++;
            }
            else{
-            prev=curr;
+            prev=curr;//0 and 1 not equal so reseting 
             curr=1;
            } 
-           if(prev>=curr)
+           if(prev>=curr)//in first iteration  prev =2 and current reset as 1,
            {
-            c++;
+            c++;//so it get inside 
            }
 
         }
