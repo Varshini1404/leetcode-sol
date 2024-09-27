@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Varshini1404/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Varshini1404/leetcode-sol/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Varshini1404/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
