@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Varshini1404/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Varshini1404/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
