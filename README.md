@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Varshini1404/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
 | [1923-sentence-similarity-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Varshini1404/leetcode-sol/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
