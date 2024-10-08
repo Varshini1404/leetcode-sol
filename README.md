@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1923-sentence-similarity-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshini1404/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Varshini1404/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
 | [1923-sentence-similarity-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshini1404/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Dynamic Programming
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshini1404/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshini1404/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Varshini1404/leetcode-sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
 |  |
