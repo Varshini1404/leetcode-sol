@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Varshini1404/leetcode-sol/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Rolling Hash
 |  |
