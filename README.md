@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Varshini1404/leetcode-sol/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/Varshini1404/leetcode-sol/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Varshini1404/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Varshini1404/leetcode-sol/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Varshini1404/leetcode-sol/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
