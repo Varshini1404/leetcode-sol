@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
+| [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1256-rank-transform-of-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Varshini1404/leetcode-sol/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Varshini1404/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Varshini1404/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
