@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/0696-count-binary-substrings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Varshini1404/leetcode-sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Varshini1404/leetcode-sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Varshini1404/leetcode-sol/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Varshini1404/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Varshini1404/leetcode-sol/tree/master/0273-integer-to-english-words) |
 | [1197-parsing-a-boolean-expression](https://github.com/Varshini1404/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Varshini1404/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
