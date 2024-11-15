@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Varshini1404/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Varshini1404/leetcode-sol/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1923-sentence-similarity-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/1923-sentence-similarity-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Varshini1404/leetcode-sol/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Varshini1404/leetcode-sol/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Varshini1404/leetcode-sol/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Varshini1404/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Rolling Hash
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Varshini1404/leetcode-sol/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Varshini1404/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Varshini1404/leetcode-sol/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Varshini1404/leetcode-sol/tree/master/0547-number-of-provinces) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
