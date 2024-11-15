@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Varshini1404/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
+| [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Varshini1404/leetcode-sol/tree/master/0242-valid-anagram) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Varshini1404/leetcode-sol/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Varshini1404/leetcode-sol/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Varshini1404/leetcode-sol/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 | [0171-excel-sheet-column-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
@@ -455,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
