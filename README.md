@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
 | [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Varshini1404/leetcode-sol/tree/master/1039-find-the-town-judge) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/Varshini1404/leetcode-sol/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Varshini1404/leetcode-sol/tree/master/1940-maximum-xor-for-each-query) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Varshini1404/leetcode-sol/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Varshini1404/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Divide and Conquer
 |  |
@@ -466,4 +471,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
