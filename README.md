@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Varshini1404/leetcode-sol/tree/master/0547-number-of-provinces) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Varshini1404/leetcode-sol/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Varshini1404/leetcode-sol/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Varshini1404/leetcode-sol/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Varshini1404/leetcode-sol/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Varshini1404/leetcode-sol/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/Varshini1404/leetcode-sol/tree/master/1039-find-the-town-judge) |
+| [2201-valid-arrangement-of-pairs](https://github.com/Varshini1404/leetcode-sol/tree/master/2201-valid-arrangement-of-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Union Find
 |  |
@@ -500,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/Varshini1404/leetcode-sol/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
