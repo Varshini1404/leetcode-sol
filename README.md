@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshini1404/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/0780-max-chunks-to-make-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Search
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Varshini1404/leetcode-sol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Matrix
 |  |
 | ------- |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Varshini1404/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Varshini1404/leetcode-sol/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Database
 |  |
 | ------- |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -534,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Varshini1404/leetcode-sol/tree/master/2201-valid-arrangement-of-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
