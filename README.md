@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Varshini1404/leetcode-sol/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Varshini1404/leetcode-sol/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Varshini1404/leetcode-sol/tree/master/1039-find-the-town-judge) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Varshini1404/leetcode-sol/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Varshini1404/leetcode-sol/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Varshini1404/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Varshini1404/leetcode-sol/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/Varshini1404/leetcode-sol/tree/master/1205-defanging-an-ip-address) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Varshini1404/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Varshini1404/leetcode-sol/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Varshini1404/leetcode-sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
