@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Varshini1404/leetcode-sol/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Varshini1404/leetcode-sol/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Varshini1404/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Varshini1404/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Varshini1404/leetcode-sol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Varshini1404/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Varshini1404/leetcode-sol/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Varshini1404/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Varshini1404/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
