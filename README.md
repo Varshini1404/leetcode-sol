@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Varshini1404/leetcode-sol/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Varshini1404/leetcode-sol/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Varshini1404/leetcode-sol/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Varshini1404/leetcode-sol/tree/master/0100-same-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Varshini1404/leetcode-sol/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Varshini1404/leetcode-sol/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/Varshini1404/leetcode-sol/tree/master/0787-sliding-puzzle) |
