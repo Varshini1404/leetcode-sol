@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Varshini1404/leetcode-sol/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Varshini1404/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2107-find-unique-binary-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Varshini1404/leetcode-sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Varshini1404/leetcode-sol/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Varshini1404/leetcode-sol/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Varshini1404/leetcode-sol/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Varshini1404/leetcode-sol/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Varshini1404/leetcode-sol/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Varshini1404/leetcode-sol/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Varshini1404/leetcode-sol/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2107-find-unique-binary-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Varshini1404/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Varshini1404/leetcode-sol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Varshini1404/leetcode-sol/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Varshini1404/leetcode-sol/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/2802-find-the-punishment-number-of-an-integer) |
