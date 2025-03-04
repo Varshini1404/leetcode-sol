@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshini1404/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Varshini1404/leetcode-sol/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2716-prime-subtraction-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
