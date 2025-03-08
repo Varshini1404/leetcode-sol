@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Varshini1404/leetcode-sol/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Varshini1404/leetcode-sol/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Varshini1404/leetcode-sol/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Varshini1404/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3429-special-array-i](https://github.com/Varshini1404/leetcode-sol/tree/master/3429-special-array-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Varshini1404/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Varshini1404/leetcode-sol/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Varshini1404/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Varshini1404/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Varshini1404/leetcode-sol/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2716-prime-subtraction-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Varshini1404/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Varshini1404/leetcode-sol/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Varshini1404/leetcode-sol/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Varshini1404/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 ## Rolling Hash
 |  |
 | ------- |
