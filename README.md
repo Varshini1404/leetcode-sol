@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Varshini1404/leetcode-sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Varshini1404/leetcode-sol/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Varshini1404/leetcode-sol/tree/master/0228-summary-ranges) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Varshini1404/leetcode-sol/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0494-target-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0494-target-sum) |
