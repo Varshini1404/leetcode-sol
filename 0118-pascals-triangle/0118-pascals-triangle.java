@@ -1,24 +1,32 @@
-public class Solution {
+class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> triangle = new ArrayList<>();
-        if (numRows == 0) return triangle;
+        List<List<Integer>> res = new ArrayList<>();  
 
-        triangle.add(new ArrayList<>());
-        triangle.get(0).add(1);
-
-        for (int i = 1; i < numRows; i++) {
-            List<Integer> prev_row = triangle.get(i - 1);
-            List<Integer> new_row = new ArrayList<>();
-            new_row.add(1);
-
-            for (int j = 1; j < prev_row.size(); j++) {
-                new_row.add(prev_row.get(j - 1) + prev_row.get(j));
-            }
-
-            new_row.add(1);
-            triangle.add(new_row);
+        if (numRows == 0) {
+            return res;
         }
 
-        return triangle;
+        List<Integer> frow = new ArrayList<>();
+        frow.add(1);
+        res.add(frow);  
+
+        if (numRows == 1) {
+            return res;
+        }
+
+        for (int i = 1; i < numRows; i++) {
+            List<Integer> prev = res.get(i - 1);  
+            List<Integer> row = new ArrayList<>();
+            row.add(1);
+
+            for (int j = 0; j < prev.size() - 1; j++) {  // Fix 4: Correct loop range
+                row.add(prev.get(j) + prev.get(j + 1));
+            }
+
+            row.add(1);
+            res.add(row);
+        }
+
+        return res;
     }
 }
