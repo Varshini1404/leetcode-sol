@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Varshini1404/leetcode-sol/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/Varshini1404/leetcode-sol/tree/master/1364-tuple-with-same-product) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Varshini1404/leetcode-sol/tree/master/1395-minimum-time-visiting-all-points) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshini1404/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Varshini1404/leetcode-sol/tree/master/1395-minimum-time-visiting-all-points) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Varshini1404/leetcode-sol/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2716-prime-subtraction-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Varshini1404/leetcode-sol/tree/master/1395-minimum-time-visiting-all-points) |
 ## Queue
 |  |
 | ------- |
