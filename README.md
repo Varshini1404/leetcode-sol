@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Varshini1404/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Varshini1404/leetcode-sol/tree/master/0273-integer-to-english-words) |
+| [0383-ransom-note](https://github.com/Varshini1404/leetcode-sol/tree/master/0383-ransom-note) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Varshini1404/leetcode-sol/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/0696-count-binary-substrings) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Varshini1404/leetcode-sol/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Varshini1404/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Varshini1404/leetcode-sol/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Varshini1404/leetcode-sol/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Varshini1404/leetcode-sol/tree/master/1364-tuple-with-same-product) |
