@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Varshini1404/leetcode-sol/tree/master/0242-valid-anagram) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Varshini1404/leetcode-sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Varshini1404/leetcode-sol/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
