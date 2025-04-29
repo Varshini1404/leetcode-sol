@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Varshini1404/leetcode-sol/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Varshini1404/leetcode-sol/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Varshini1404/leetcode-sol/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Varshini1404/leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/2478-longest-nice-subarray) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Varshini1404/leetcode-sol/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Varshini1404/leetcode-sol/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Varshini1404/leetcode-sol/tree/master/2358-number-of-ways-to-split-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Varshini1404/leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Varshini1404/leetcode-sol/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Varshini1404/leetcode-sol/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Varshini1404/leetcode-sol/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Varshini1404/leetcode-sol/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Varshini1404/leetcode-sol/tree/master/2164-two-best-non-overlapping-events) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Varshini1404/leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Varshini1404/leetcode-sol/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Varshini1404/leetcode-sol/tree/master/2716-prime-subtraction-operation) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Varshini1404/leetcode-sol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Varshini1404/leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Varshini1404/leetcode-sol/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
