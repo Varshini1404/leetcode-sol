@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Varshini1404/leetcode-sol/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Varshini1404/leetcode-sol/tree/master/0787-sliding-puzzle) |
+| [0890-lemonade-change](https://github.com/Varshini1404/leetcode-sol/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/0952-word-subsets) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/Varshini1404/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/Varshini1404/leetcode-sol/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Varshini1404/leetcode-sol/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Varshini1404/leetcode-sol/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/1502-construct-k-palindrome-strings) |
