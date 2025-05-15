@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Varshini1404/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Varshini1404/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Varshini1404/leetcode-sol/tree/master/0696-count-binary-substrings) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Varshini1404/leetcode-sol/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Varshini1404/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Varshini1404/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Varshini1404/leetcode-sol/tree/master/0561-array-partition) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Varshini1404/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/Varshini1404/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Varshini1404/leetcode-sol/tree/master/1304-longest-happy-string) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Varshini1404/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 | [0432-all-oone-data-structure](https://github.com/Varshini1404/leetcode-sol/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Varshini1404/leetcode-sol/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -832,4 +836,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/0220-contains-duplicate-iii) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Varshini1404/leetcode-sol/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
