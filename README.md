@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Varshini1404/leetcode-sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Varshini1404/leetcode-sol/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Varshini1404/leetcode-sol/tree/master/0322-coin-change) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Varshini1404/leetcode-sol/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Varshini1404/leetcode-sol/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0263-ugly-number) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Varshini1404/leetcode-sol/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Varshini1404/leetcode-sol/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Varshini1404/leetcode-sol/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Varshini1404/leetcode-sol/tree/master/0273-integer-to-english-words) |
