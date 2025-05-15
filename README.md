@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Varshini1404/leetcode-sol/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Varshini1404/leetcode-sol/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Varshini1404/leetcode-sol/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0085-maximal-rectangle) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Varshini1404/leetcode-sol/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Varshini1404/leetcode-sol/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Varshini1404/leetcode-sol/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Varshini1404/leetcode-sol/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Varshini1404/leetcode-sol/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Varshini1404/leetcode-sol/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/Varshini1404/leetcode-sol/tree/master/0657-robot-return-to-origin) |
