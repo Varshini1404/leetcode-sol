@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Varshini1404/leetcode-sol/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Varshini1404/leetcode-sol/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Varshini1404/leetcode-sol/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Varshini1404/leetcode-sol/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Varshini1404/leetcode-sol/tree/master/0070-climbing-stairs) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Varshini1404/leetcode-sol/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Varshini1404/leetcode-sol/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/Varshini1404/leetcode-sol/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Varshini1404/leetcode-sol/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Varshini1404/leetcode-sol/tree/master/0234-palindrome-linked-list) |
