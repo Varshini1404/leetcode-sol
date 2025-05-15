@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Varshini1404/leetcode-sol/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Varshini1404/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/0053-maximum-subarray) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Varshini1404/leetcode-sol/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Varshini1404/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Varshini1404/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Varshini1404/leetcode-sol/tree/master/0085-maximal-rectangle) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Varshini1404/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Varshini1404/leetcode-sol/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Varshini1404/leetcode-sol/tree/master/1993-sum-of-all-subset-xor-totals) |
