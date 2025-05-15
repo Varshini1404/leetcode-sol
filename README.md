@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Varshini1404/leetcode-sol/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/Varshini1404/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Varshini1404/leetcode-sol/tree/master/0322-coin-change) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Varshini1404/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Varshini1404/leetcode-sol/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Varshini1404/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Varshini1404/leetcode-sol/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Varshini1404/leetcode-sol/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -793,11 +796,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Varshini1404/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Varshini1404/leetcode-sol/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Varshini1404/leetcode-sol/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Shortest Path
 |  |
