@@ -17,7 +17,6 @@ class Solution {
                 res[p1] += sum / 10;
             }
         }
-
         StringBuilder sb = new StringBuilder();
         for (int num : res) {
             if (!(sb.length() == 0 && num == 0)) {
