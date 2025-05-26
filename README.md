@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Varshini1404/leetcode-sol/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Varshini1404/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Varshini1404/leetcode-sol/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Varshini1404/leetcode-sol/tree/master/0055-jump-game) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Varshini1404/leetcode-sol/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Varshini1404/leetcode-sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Varshini1404/leetcode-sol/tree/master/0070-climbing-stairs) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varshini1404/leetcode-sol/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Varshini1404/leetcode-sol/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Varshini1404/leetcode-sol/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
