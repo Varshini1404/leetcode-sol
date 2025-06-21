@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    void s(TreeNode root,List<Integer> arr)
+    public void s(TreeNode root,List<Integer> a)
     {
         if(root == null)
         {
@@ -22,19 +22,19 @@ class Solution {
         }
         if(root.left == null && root.right == null)
         {
-            arr.add(root.val);
+            a.add(root.val);
         }
-        s(root.left,arr);
-        s(root.right,arr);
-    }
+        s(root.left,a);
+        s(root.right,a);
 
+    }
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
         List<Integer> arr1 = new ArrayList<>();
         List<Integer> arr2 = new ArrayList<>();
 
         s(root1,arr1);
         s(root2,arr2);
-        
-    
-    return arr1.equals(arr2);}
+
+        return arr1.equals(arr2);
+    }
 }
