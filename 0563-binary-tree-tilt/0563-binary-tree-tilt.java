@@ -14,28 +14,22 @@
  * }
  */
 class Solution {
-    int tot = 0;
+            int tot = 0;
     public int findTilt(TreeNode root) {
-        
         dfs(root);
         return tot;
-        
     }
     public int dfs(TreeNode node)
     {
-
-        if(node == null)
+        if(node==null)
         {
             return 0;
         }
-       
-            int left = dfs(node.left);
-            int right = dfs(node.right);
-            int tilt = Math.abs(left-right);
-            tot+=tilt;
-        
+        int left = dfs(node.left);
+        int right = dfs(node.right);
 
+        int tilt = Math.abs(left- right);
+        tot+=tilt;
         return node.val+left+right;
-
     }
 }
