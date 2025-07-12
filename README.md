@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Varshini1404/leetcode-sol/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
 | [0407-trapping-rain-water-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0407-trapping-rain-water-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Varshini1404/leetcode-sol/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Varshini1404/leetcode-sol/tree/master/0485-max-consecutive-ones) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Varshini1404/leetcode-sol/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/Varshini1404/leetcode-sol/tree/master/0432-all-oone-data-structure) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/0952-word-subsets) |
