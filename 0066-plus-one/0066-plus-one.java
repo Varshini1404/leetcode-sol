@@ -4,16 +4,16 @@ class Solution {
         {
             if(digits[i]<9)
             {
-                digits[i]+=1;
-                return digits;
+                digits[i]++;
+            return digits;
             }
-            digits[i]=0;//sum = 0
-        
+             digits[i]=0;
         }
-        int[] plus=new int[digits.length+1];
-        plus[0]=1;
-        return plus;
+       
 
+        int[] newnum = new int[digits.length+1];
+        newnum[0]=1;
+        return newnum;
 
     }
 }
