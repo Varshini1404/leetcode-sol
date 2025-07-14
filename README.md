@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Varshini1404/leetcode-sol/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Varshini1404/leetcode-sol/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Varshini1404/leetcode-sol/tree/master/1025-minimum-cost-for-tickets) |
+| [1031-add-to-array-form-of-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/Varshini1404/leetcode-sol/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Varshini1404/leetcode-sol/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/Varshini1404/leetcode-sol/tree/master/1063-best-sightseeing-pair) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshini1404/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
+| [1031-add-to-array-form-of-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/1031-add-to-array-form-of-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Varshini1404/leetcode-sol/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Varshini1404/leetcode-sol/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Varshini1404/leetcode-sol/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
