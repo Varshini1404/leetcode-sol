@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Varshini1404/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshini1404/leetcode-sol/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Varshini1404/leetcode-sol/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Varshini1404/leetcode-sol/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Varshini1404/leetcode-sol/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Varshini1404/leetcode-sol/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshini1404/leetcode-sol/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Varshini1404/leetcode-sol/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/2902-max-pair-sum-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Varshini1404/leetcode-sol/tree/master/3227-find-missing-and-repeated-values) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Varshini1404/leetcode-sol/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Varshini1404/leetcode-sol/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Varshini1404/leetcode-sol/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
