@@ -1,10 +1,21 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int sum=0;
-        for(int num:nums)
+        for(int i=0;i<nums.length;i++)
         {
-            sum^=num;
+            boolean f = false;
+            for(int j=0;j<nums.length;j++)
+            {
+                if(i!=j && nums[i]==nums[j])
+                {
+                    f = true;
+                    break;
+                }
+            }
+                    if(!f)
+                    {
+                        return nums[i];
+                    }
         }
-        return sum;
+         return -1;
     }
 }
