@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Varshini1404/leetcode-sol/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Varshini1404/leetcode-sol/tree/master/0198-house-robber) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Varshini1404/leetcode-sol/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Varshini1404/leetcode-sol/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/Varshini1404/leetcode-sol/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Varshini1404/leetcode-sol/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Varshini1404/leetcode-sol/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Varshini1404/leetcode-sol/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Varshini1404/leetcode-sol/tree/master/1160-letter-tile-possibilities) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Varshini1404/leetcode-sol/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Varshini1404/leetcode-sol/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Varshini1404/leetcode-sol/tree/master/0217-contains-duplicate) |
@@ -744,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Varshini1404/leetcode-sol/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Varshini1404/leetcode-sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Varshini1404/leetcode-sol/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Varshini1404/leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 ## Design
 |  |
