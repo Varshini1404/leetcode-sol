@@ -572,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Varshini1404/leetcode-sol/tree/master/0282-expression-add-operators) |
 | [0398-random-pick-index](https://github.com/Varshini1404/leetcode-sol/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Varshini1404/leetcode-sol/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0441-arranging-coins](https://github.com/Varshini1404/leetcode-sol/tree/master/0441-arranging-coins) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Varshini1404/leetcode-sol/tree/master/0592-fraction-addition-and-subtraction) |
 | [1031-add-to-array-form-of-integer](https://github.com/Varshini1404/leetcode-sol/tree/master/1031-add-to-array-form-of-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Varshini1404/leetcode-sol/tree/master/1395-minimum-time-visiting-all-points) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Varshini1404/leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varshini1404/leetcode-sol/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Varshini1404/leetcode-sol/tree/master/0441-arranging-coins) |
 | [0731-my-calendar-ii](https://github.com/Varshini1404/leetcode-sol/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Varshini1404/leetcode-sol/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Varshini1404/leetcode-sol/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
