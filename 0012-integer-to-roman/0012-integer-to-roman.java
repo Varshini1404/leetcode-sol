@@ -5,13 +5,13 @@ class Solution {
         String[] te = {"","X","XX","XXX","XL","L","LX","LXX","LXXX","XC"};
         String[] o = {"","I","II","III","IV","V","VI","VII","VIII","IX"};
         
-        String rom = "";
+        StringBuilder sb = new StringBuilder();
 
-        rom+=t[num/1000];
-        rom+=h[(num%1000)/100];
-        rom+=te[(num%100)/10];
-        rom+=o[num%10];
+        sb.append(t[num/1000]);
+        sb.append(h[(num%1000)/100]);
+        sb.append(te[(num%100)/10]);
+        sb.append(o[num%10]);
         
-        return rom;
+        return sb.toString();
     }
 }
